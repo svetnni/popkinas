@@ -1,0 +1,9 @@
+@font-face{
+  font-family:'MontserratImport';
+  src: url(../fonts/
+Montserrat.ttf);
+}
+
+*{
+font-family: 'MontserratImport';
+}
